@@ -101,4 +101,4 @@ This project is a comprehensive implementation of a 16-bit Arithmetic Logic Unit
 
 For more details about issues related to this project, you can visit the GitHub issue tracker at:
 
-- [Issue Discussion on GitHub](https://github.com/Mohamad-shosha/CPU-16bit/issues/1)
+- [Issue Discussion on GitHub](https://github.com/Mohamad-shosha/CPU-16bit/issues/)
