@@ -32,6 +32,25 @@ This project is a comprehensive implementation of a 16-bit Arithmetic Logic Unit
 
 ---
 
+## 🌍 Images
+
+### 1. **ALU Diagram**
+   ![1](https://github.com/user-attachments/assets/2df8ecf7-0ba4-4241-9cda-6b1b2f54dce8)
+
+### 2. **Control Unit**
+   ![2](https://github.com/user-attachments/assets/3d1a2369-d71e-415c-8f4b-9f94fcf1d842)
+
+### 3. **ALU Control**
+   ![3](https://github.com/user-attachments/assets/4cfa3c13-54bd-40ea-b7f3-1c01a036ec96)
+
+### 4. **16-bit ALU**
+   ![4](https://github.com/user-attachments/assets/4955cd5b-9b85-4039-88f0-0a0baab3e25c)
+
+### 5. **16-bit Registers**
+   ![5](https://github.com/user-attachments/assets/6f49fe5b-30ed-4b5f-9fc9-5467503d9479)
+
+---
+
 ## ⚙️ Key Functionalities
 
 ### ✨ Core Features
@@ -76,3 +95,10 @@ This project is a comprehensive implementation of a 16-bit Arithmetic Logic Unit
 - 📈 Increase the memory size for handling larger datasets.
 - 🔀 Add support for branching and conditional jumps.
 
+---
+
+## 💡 Issue Discussion
+
+For more details about issues related to this project, you can visit the GitHub issue tracker at:
+
+- [Issue Discussion on GitHub](https://github.com/Mohamad-shosha/CPU-16bit/issues/1)
