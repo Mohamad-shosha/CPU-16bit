@@ -74,6 +74,5 @@ This project is a comprehensive implementation of a 16-bit Arithmetic Logic Unit
 
 - 🔢 Expand the ALU with additional operations (e.g., multiplication, division).
 - 📈 Increase the memory size for handling larger datasets.
-- ⏳ Implement a program counter to execute a sequence of instructions.
 - 🔀 Add support for branching and conditional jumps.
 
